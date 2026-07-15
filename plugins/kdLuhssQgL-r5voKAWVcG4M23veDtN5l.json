@@ -1210,61 +1210,61 @@
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "单击时，这是下一步应该使用的符号。",
-                    "target": "单击时，这是下一步应该使用的符号。"
+                    "target": "下一步使用的符号"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "这是任务状态的友好名称.",
-                    "target": "这是任务状态的友好名称."
+                    "target": "任务状态名称"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "这是方括号中的字符。（仅可编辑自定义状态,不可编辑核心状态。）",
-                    "target": "这是方括号中的字符。（仅可编辑自定义状态,不可编辑核心状态。）"
+                    "target": "方括号内字符（仅自定义可编辑）"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "控制搜索和切换状态的行为。",
-                    "target": "控制搜索和切换状态的行为。"
+                    "target": "控制搜索及切换行为"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "当自动建议菜单弹出时，应显示多少条建议 (包含 \"⏎\" 选项)。",
-                    "target": "当自动建议菜单弹出时，应显示多少条建议 (包含 \"⏎\" 选项)。"
+                    "target": "自动建议显示条数（含⏎）"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "如果高于0，则只有在识别出任何支持的关键字的开头时才会触发自动建议。",
-                    "target": "如果高于0，则只有在识别出任何支持的关键字的开头时才会触发自动建议。"
+                    "target": "仅匹配支持关键字开头触发"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "启用此功能将在识别的任务行内输入时打开智能建议菜单。",
-                    "target": "启用此功能将在识别的任务行内输入时打开智能建议菜单。"
+                    "target": "任务行内输入时开启智能建议"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "启用此功能将在任务设置为取消时，在其末尾添加时间戳 ❌ YYYY-MM-DD。",
-                    "target": "启用此功能将在任务设置为取消时，在其末尾添加时间戳 ❌ YYYY-MM-DD。"
+                    "target": "取消任务时添加时间戳❌YYYY-MM-DD"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "启用此功能将在通过“Create or edit task”命令或完成重复任务时，在其他日期值之前添加时间戳➕YYYY-MM-DD。",
-                    "target": "启用此功能将在通过“Create or edit task”命令或完成重复任务时，在其他日期值之前添加时间戳➕YYYY-MM-DD。"
+                    "target": "创建/编辑任务或重复任务时添加时间戳➕YYYY-MM-DD"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "description",
                     "source": "启用此功能将在任务被设置为完成时，在其末尾添加时间戳 ✅ YYYY-MM-DD。",
-                    "target": "启用此功能将在任务被设置为完成时，在其末尾添加时间戳 ✅ YYYY-MM-DD。"
+                    "target": "完成任务时添加时间戳✅YYYY-MM-DD"
                 },
                 {
                     "type": "ObjectProperty",
@@ -1912,13 +1912,13 @@
                     "type": "ObjectProperty",
                     "name": "icon",
                     "source": "pencil",
-                    "target": "pencil"
+                    "target": "铅笔"
                 },
                 {
                     "type": "ObjectProperty",
                     "name": "icon",
                     "source": "settings",
-                    "target": "settings"
+                    "target": "设置"
                 },
                 {
                     "type": "ObjectProperty",
