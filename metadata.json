@@ -6,10 +6,10 @@
         "version": "8.2.2",
         "supported_versions": "8.2.2",
         "title": "Tasks",
-        "description": "Tasks Localization & Tweaks.",
-        "hash": "33eefb4433eefb4433eefb4433eefb44",
+        "description": "任务本地化与调整",
+        "hash": "0a5246cb0a5246cb0a5246cb0a5246cb",
         "created_at": "2026-07-15T15:48:00.201Z",
-        "updated_at": "2026-07-15T15:57:29.363Z",
+        "updated_at": "2026-07-15T16:05:27.723Z",
         "type": "plugin"
     }
 ]
